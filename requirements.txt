@@ -1,0 +1,14 @@
+langchain_community 
+langchain 
+langgraph 
+langchain_groq 
+langchain_chroma 
+langchain_groq 
+sentence-transformers
+langchain_chroma
+langchain_groq
+python-dotenv
+google-search-results
+streamlit
+langchain_openai
+pyngrok
